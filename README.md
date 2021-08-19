@@ -1,4 +1,4 @@
-### Oi, Sou Wesley Gomes. Seja Bem Vindo ao meu GitHub!
+### Oi, Me Chamo Wesley. Seja Bem Vindo ao meu GitHub!
 
 <div>
   <a href="https://github.com/WesleyGCosta">

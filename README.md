@@ -25,10 +25,7 @@ Sou um desenvolvedor focado em construir aplicações robustas e escaláveis, un
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 ![Snake animation](https://github.com/WesleyGCosta/WesleyGCosta/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
